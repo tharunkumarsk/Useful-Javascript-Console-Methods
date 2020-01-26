@@ -1,0 +1,23 @@
+{
+  "name": "useful-javascript-console-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharunkumarsk/Useful-Javascript-Console-Methods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharunkumarsk/Useful-Javascript-Console-Methods/issues"
+  },
+  "homepage": "https://github.com/tharunkumarsk/Useful-Javascript-Console-Methods#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}

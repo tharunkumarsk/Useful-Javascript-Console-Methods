@@ -18,6 +18,6 @@
   "homepage": "https://github.com/tharunkumarsk/Useful-Javascript-Console-Methods#readme",
   "dependencies": {
     "es6-promise": "^4.2.8",
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "^3.0.0"
   }
 }
